@@ -5,8 +5,8 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: #f4f4f5;
-    color: #18181b;
+    background: #292929;
+    color: #e2e2e4;
 }
 
 .page {
@@ -21,11 +21,15 @@ body {
     margin: 40px auto;
     padding: 24px;
     border-radius: 16px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 10px 30px rgba(155, 155, 155, 0.12);
 }
 
 .card h1 {
     margin-top: 0;
+}
+
+.card a {
+    color: aquamarine;
 }
 
 .button {
