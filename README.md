@@ -23,6 +23,7 @@ The goal of this project is to learn how to create a local frontend project, tra
 - Staging files with `git add`
 - Creating commits with `git commit`
 - Viewing commit history with `git log --oneline`
+- Project pushed to GitHub
 
 ## Project Structure
 
