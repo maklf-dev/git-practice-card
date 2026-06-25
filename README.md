@@ -29,3 +29,16 @@ git status
 git diff
 git add <file>
 git commit -m "Clear message"
+
+## Learning Notes
+
+In this project, I practiced a professional Git and GitHub workflow:
+
+- Creating feature branches
+- Reviewing changes with `git diff`
+- Writing clearer commit messages
+- Merging branches into `main`
+- Resolving a safe merge conflict
+- Pushing changes to GitHub
+- Planning work with Issues
+- Reviewing work with Pull Requests
